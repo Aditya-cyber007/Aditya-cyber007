@@ -45,13 +45,11 @@
     />
     <img
         height="180em"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=
-Aditya-cyber007&show_icons=true&hide_border=true&layout=compact&langs_count=8"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-cyber007&show_icons=true&hide_border=true&layout=compact&langs_count=8"
     />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=
-Aditya-cyber007&hide_border=true" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya-cyber007&hide_border=true" height="180em" />
 </p>
 
   
