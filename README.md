@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I am `Aditya Pratap Singh`</h1>
+<h1 align="center">Hi there 👋, I am `<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="adityapratap00" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/adityapratap00?trk=profile-badge">ADITYA PRATAP SINGH</a></div>`</h1>
 <h3 align="center">On a road to Data Scientist</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/aditya-pratap-singh-b6ba901ba/">
@@ -52,5 +52,5 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya-cyber007&hide_border=true" height="180em" />
 </p>
 
- <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="adityapratap00" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/adityapratap00?trk=profile-badge">ADITYA PRATAP SINGH</a></div>
+ 
               
