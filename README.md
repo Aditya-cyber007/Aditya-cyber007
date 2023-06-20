@@ -14,7 +14,7 @@
 ### **Talking about Personal Stuffs:**
 
  🌱 I’m currently learning <b>Data Structures & Algorithm</b>.<br> 
- 💬 Don't ask me about anything, I am happy in not helping.<br>
+ //💬 Don't ask me about anything, I am happy in not helping.<br>
  
 
  
