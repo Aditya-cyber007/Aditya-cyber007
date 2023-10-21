@@ -13,7 +13,7 @@
 
 ### **Talking about Personal Stuffs:**
 
- 🌱 I’m currently learning <b>Data Structures & Algorithm</b>.<be> 
+ 🌱 I’m currently learning <b>how to learn</b>.<be> 
  <!--💬 Don't ask me about anything, I am happy in not helping.<br>-->
  
 
