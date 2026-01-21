@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I am <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="adityapratap00" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/adityapratap00?trk=profile-badge">ADITYA PRATAP SINGH</a></div></h1>
-<h3 align="center">On a road to Data Scientist</h3>
+<h3 align="center">On a road to FullStack Developer</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/aditya-pratap-singh-b6ba901ba/">
     <img align="center" alt="Aditya's LinkedIN" height="30px" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -14,7 +14,7 @@
 ### **Talking about Personal Stuffs:**
 
  🌱 I’m currently learning <b>how to learn</b>.<be> 
- <!--💬 Don't ask me about anything, I am happy in not helping.<br>-->
+ <!--💬 Don't ask me about anything, I am happy in helping.<br>-->
  
 
  
